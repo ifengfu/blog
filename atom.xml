@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ifengfu.cn/"/>
-  <updated>2018-12-27T15:50:15.897Z</updated>
+  <updated>2018-12-27T16:56:18.275Z</updated>
   <id>http://ifengfu.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://ifengfu.cn/2018/12/27/2018-12-27-Hello%20ifengfu/"/>
     <id>http://ifengfu.cn/2018/12/27/2018-12-27-Hello ifengfu/</id>
     <published>2018-12-26T22:18:07.000Z</published>
-    <updated>2018-12-27T15:50:15.897Z</updated>
+    <updated>2018-12-27T16:56:18.275Z</updated>
     
     <content type="html"><![CDATA[<h1 id="ifengfu-cn-定位"><a href="#ifengfu-cn-定位" class="headerlink" title="ifengfu.cn 定位"></a>ifengfu.cn 定位</h1><p><em>初定,后续持续变更</em></p><ul><li>语音写作</li><li>价值传播</li><li><p>联结链接</p></li><li><p>共进益人</p></li><li><p>积累信任</p></li><li><p>供需聚合</p></li><li><p>服务分发</p></li><li><p>控制权</p></li><li>自由度</li><li><p>理逻辑</p></li><li><p>数字人</p></li><li>记录启迪</li><li>网络存在</li></ul><hr><h1 id="网络定向ifengfu"><a href="#网络定向ifengfu" class="headerlink" title="网络定向ifengfu"></a>网络定向ifengfu</h1><h2 id="ifengfu链接列表"><a href="#ifengfu链接列表" class="headerlink" title="ifengfu链接列表"></a>ifengfu链接列表</h2><ul><li><a href="http://ifengfu.cn">ifengfu</a></li><li><a href="http://ifengfu.cn/atom.xml">Rss</a></li><li><a href="http://weibo.com/wenshuya" target="_blank" rel="noopener">weibo</a></li><li><a href="https://www.zhihu.com/people/murost/activities" target="_blank" rel="noopener">zhihu</a></li><li><a href="https://www.douban.com/people/160675013" target="_blank" rel="noopener">douban</a></li><li><a href="https://www.jianshu.com/u/4c5f4950e4e4" target="_blank" rel="noopener">jianshu</a></li><li><a href="https://www.twitter.com/ifengfu" target="_blank" rel="noopener">twitter</a></li><li><a href="https://www.facebook.com/ifengfu" target="_blank" rel="noopener">facebook</a></li><li><a href="https://www.instagram.com/ifengfu" target="_blank" rel="noopener">instagram</a></li><li><a href="https://github.com/ifengfu" target="_blank" rel="noopener">github</a></li><li><a href="https://plus.google.com/107445183559467747692" target="_blank" rel="noopener">google</a></li><li><a href="https://ask.fm/ifengfu" target="_blank" rel="noopener">ask</a></li><li><a href="https://www.linkedin.com/in/ifengfu" target="_blank" rel="noopener">linkedin</a></li><li>email: <a href="mailto:A@mail.ifengfu.cn" target="_blank" rel="noopener">A@mail.ifengfu.cn</a></li><li>wechat:<strong>ifengfu</strong></li></ul><h1 id="留言"><a href="#留言" class="headerlink" title="留言"></a>留言</h1><p><img src="https://i.loli.net/2018/12/27/5c23dd9e3029c.jpg" alt="ifengfu 微信二维码"><br>点击这里：<a href="https://jinshuju.net/f/0abrVV" target="_blank" rel="noopener">建议/反馈/留言</a></p><hr><p>到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。</p><p>本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次</p>]]></content>
     
@@ -83,7 +83,7 @@
     <link href="http://ifengfu.cn/2018/12/21/2018-12-21-start/"/>
     <id>http://ifengfu.cn/2018/12/21/2018-12-21-start/</id>
     <published>2018-12-21T01:21:18.000Z</published>
-    <updated>2018-12-27T15:44:49.155Z</updated>
+    <updated>2018-12-27T17:29:19.184Z</updated>
     
     <content type="html"><![CDATA[<h1 id="2018-12-21-网站开端纪念日"><a href="#2018-12-21-网站开端纪念日" class="headerlink" title="2018-12-21 网站开端纪念日"></a>2018-12-21 网站开端纪念日</h1><p>奋战了3天，重点学习了github和git push，从一无所知到略知一二，终于将专属站点架构起来！<br>开端发布第一篇测试文章，既是测试，也是纪念。</p><p><img src="https://i.loli.net/2018/12/27/5c23f135f2d8e.jpg" alt="2019.jpg"></p><h1 id="留言"><a href="#留言" class="headerlink" title="留言"></a>留言</h1><p><img src="https://i.loli.net/2018/12/27/5c23dd9e3029c.jpg" alt="ifengfu 微信二维码"><br>点击这里：<a href="https://jinshuju.net/f/0abrVV" target="_blank" rel="noopener">建议/反馈/留言</a></p><hr><p>到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。</p><p>本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次</p>]]></content>
     
@@ -95,6 +95,12 @@
       
     
     </summary>
+    
+      <category term="语音写作" scheme="http://ifengfu.cn/categories/%E8%AF%AD%E9%9F%B3%E5%86%99%E4%BD%9C/"/>
+    
+      <category term="供需市场" scheme="http://ifengfu.cn/categories/%E8%AF%AD%E9%9F%B3%E5%86%99%E4%BD%9C/%E4%BE%9B%E9%9C%80%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="服务项目" scheme="http://ifengfu.cn/categories/%E8%AF%AD%E9%9F%B3%E5%86%99%E4%BD%9C/%E4%BE%9B%E9%9C%80%E5%B8%82%E5%9C%BA/%E6%9C%8D%E5%8A%A1%E9%A1%B9%E7%9B%AE/"/>
     
     
       <category term="纪念" scheme="http://ifengfu.cn/tags/%E7%BA%AA%E5%BF%B5/"/>

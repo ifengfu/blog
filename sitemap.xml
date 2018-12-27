@@ -2,23 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ifengfu.cn/about/index.html</loc>
+    <loc>http://ifengfu.cn/2018/12/21/2018-12-21-start/</loc>
     
-    <lastmod>2018-12-27T15:50:35.943Z</lastmod>
+    <lastmod>2018-12-27T17:29:19.184Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ifengfu.cn/map/index.html</loc>
+    
+    <lastmod>2018-12-27T17:22:46.404Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ifengfu.cn/Friends/index.html</loc>
+    
+    <lastmod>2018-12-27T17:11:58.064Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ifengfu.cn/photo/index.html</loc>
+    
+    <lastmod>2018-12-27T17:05:32.608Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ifengfu.cn/readers/index.html</loc>
+    
+    <lastmod>2018-12-27T16:58:18.410Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ifengfu.cn/wall/index.html</loc>
+    
+    <lastmod>2018-12-27T16:58:10.142Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ifengfu.cn/2018/12/27/2018-12-27-Hello%20ifengfu/</loc>
     
-    <lastmod>2018-12-27T15:50:15.897Z</lastmod>
+    <lastmod>2018-12-27T16:56:18.275Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ifengfu.cn/2018/12/21/2018-12-21-start/</loc>
+    <loc>http://ifengfu.cn/about/index.html</loc>
     
-    <lastmod>2018-12-27T15:44:49.155Z</lastmod>
+    <lastmod>2018-12-27T16:27:21.343Z</lastmod>
     
   </url>
   
@@ -26,13 +61,6 @@
     <loc>http://ifengfu.cn/2018/12/25/2018-12-25-hexo/</loc>
     
     <lastmod>2018-12-27T15:44:11.325Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ifengfu.cn/photo/index.html</loc>
-    
-    <lastmod>2018-12-27T14:57:49.450Z</lastmod>
     
   </url>
   
