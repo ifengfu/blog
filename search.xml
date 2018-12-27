@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello ifengfu</title>
+      <link href="/2018/12/27/2018-12-27-Hello%20ifengfu/"/>
+      <url>/2018/12/27/2018-12-27-Hello%20ifengfu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ifengfu-cn-定位"><a href="#ifengfu-cn-定位" class="headerlink" title="ifengfu.cn 定位"></a>ifengfu.cn 定位</h1><p><em>初定,后续持续变更</em></p><ul><li>语音写作</li><li>价值传播</li><li><p>联结链接</p></li><li><p>共进益人</p></li><li><p>积累信任</p></li><li><p>供需聚合</p></li><li><p>服务分发</p></li><li><p>控制权</p></li><li>自由度</li><li><p>理逻辑</p></li><li><p>数字人</p></li><li>记录启迪</li><li>网络存在</li></ul><hr><h1 id="网络定向ifengfu"><a href="#网络定向ifengfu" class="headerlink" title="网络定向ifengfu"></a>网络定向ifengfu</h1><h2 id="ifengfu链接列表"><a href="#ifengfu链接列表" class="headerlink" title="ifengfu链接列表"></a>ifengfu链接列表</h2><ul><li><a href="http://ifengfu.cn">ifengfu</a></li><li><a href="http://ifengfu.cn/atom.xml">Rss</a></li><li><a href="http://weibo.com/wenshuya" target="_blank" rel="noopener">weibo</a></li><li><a href="https://www.zhihu.com/people/murost/activities" target="_blank" rel="noopener">zhihu</a></li><li><a href="https://www.douban.com/people/160675013" target="_blank" rel="noopener">douban</a></li><li><a href="https://www.jianshu.com/u/4c5f4950e4e4" target="_blank" rel="noopener">jianshu</a></li><li><a href="https://www.twitter.com/ifengfu" target="_blank" rel="noopener">twitter</a></li><li><a href="https://www.facebook.com/ifengfu" target="_blank" rel="noopener">facebook</a></li><li><a href="https://www.instagram.com/ifengfu" target="_blank" rel="noopener">instagram</a></li><li><a href="https://github.com/ifengfu" target="_blank" rel="noopener">github</a></li><li><a href="https://plus.google.com/107445183559467747692" target="_blank" rel="noopener">google</a></li><li><a href="https://ask.fm/ifengfu" target="_blank" rel="noopener">ask</a></li><li><a href="https://www.linkedin.com/in/ifengfu" target="_blank" rel="noopener">linkedin</a></li><li>email: <a href="mailto:A@mail.ifengfu.cn" target="_blank" rel="noopener">A@mail.ifengfu.cn</a></li><li>wechat:<strong>ifengfu</strong></li></ul><h1 id="留言"><a href="#留言" class="headerlink" title="留言"></a>留言</h1><p><img src="https://i.loli.net/2018/12/27/5c23dd9e3029c.jpg" alt="ifengfu 微信二维码"><br>点击这里：<a href="https://jinshuju.net/f/0abrVV" target="_blank" rel="noopener">建议/反馈/留言</a></p><hr><p>到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。</p><p>本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 资源 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 定位 </tag>
+            
+            <tag> 定向 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo</title>
+      <link href="/2018/12/25/2018-12-25-hexo/"/>
+      <url>/2018/12/25/2018-12-25-hexo/</url>
+      
+        <content type="html"><![CDATA[<h1 id="语音md常用指令合集"><a href="#语音md常用指令合集" class="headerlink" title="语音md常用指令合集"></a>语音md常用指令合集</h1><p>后续将根据实际持续更新</p><h2 id="文集和标签"><a href="#文集和标签" class="headerlink" title="文集和标签"></a>文集和标签</h2><p>说明：<br><code>date:</code>时间，写作时间可手动输入，不输入则默认写作时间=创建文档时间<br><code>categories:</code>文集，为左侧列表<br><code>tags:</code>标签，通过在搜索框，输入<code>#</code>来筛选，全文搜则输入<code>in：</code><br><code>top:</code>文章排序，如果存在多个置顶文章，top后的参数越大，越靠前。</p><p>示范(已可自动生成)：</p><pre><code>    ---    title: Hello ifengfu    date: 2017-01-23 11:41:48    categories:    - 玩法    tags:    - hexo    - 代码    - git    top: 1    ---</code></pre><p>More info: <a href="https://yelog.org/2017/02/24/hexo-top-sort/" target="_blank" rel="noopener">Hexo置顶及排序问题：创建时间和写作时间不一致的排序问题</a></p><h2 id="创建文章"><a href="#创建文章" class="headerlink" title="创建文章"></a>创建文章</h2><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><pre><code>hexo new &#39;1(题目)&#39;</code></pre><p>若不记得口令：</p><ul><li>可直接复制仅包含头部口令（以上‘示范’）的md模板，</li><li>或新创建包含（以上‘示范’）头部口令的md</li></ul><h2 id="渲染"><a href="#渲染" class="headerlink" title="渲染"></a>渲染</h2><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><pre><code>hexo g</code></pre><h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><pre><code>hexo s</code></pre><h2 id="上传"><a href="#上传" class="headerlink" title="上传"></a>上传</h2><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><pre><code>hexo d</code></pre><h2 id="快速口令"><a href="#快速口令" class="headerlink" title="快速口令"></a>快速口令</h2><pre><code>alias hs=&#39;hexo clean &amp;&amp; hexo g &amp;&amp; hexo s&#39;  #本地预览alias hd=&#39;hexo clean &amp;&amp; hexo g &amp;&amp; hexo d&#39;  #传github</code></pre><h2 id="主页和目录"><a href="#主页和目录" class="headerlink" title="主页和目录"></a>主页和目录</h2><pre><code>themes/3-hexo/lauout/indexs.md</code></pre><h1 id="留言"><a href="#留言" class="headerlink" title="留言"></a>留言</h1><p><img src="https://i.loli.net/2018/12/27/5c23dd9e3029c.jpg" alt="ifengfu 微信二维码"><br>点击这里：<a href="https://jinshuju.net/f/0abrVV" target="_blank" rel="noopener">建议/反馈/留言</a></p><hr><p>到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。</p><p>本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> 代码 </tag>
+            
+            <tag> git </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 经验 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>start</title>
+      <link href="/2018/12/21/2018-12-21-start/"/>
+      <url>/2018/12/21/2018-12-21-start/</url>
+      
+        <content type="html"><![CDATA[<h1 id="2018-12-21-网站开端纪念日"><a href="#2018-12-21-网站开端纪念日" class="headerlink" title="2018-12-21 网站开端纪念日"></a>2018-12-21 网站开端纪念日</h1><p>奋战了3天，重点学习了github和git push，从一无所知到略知一二，终于将专属站点架构起来！<br>开端发布第一篇测试文章，既是测试，也是纪念。</p><p><img src="https://i.loli.net/2018/12/27/5c23f135f2d8e.jpg" alt="2019.jpg"></p><h1 id="留言"><a href="#留言" class="headerlink" title="留言"></a>留言</h1><p><img src="https://i.loli.net/2018/12/27/5c23dd9e3029c.jpg" alt="ifengfu 微信二维码"><br>点击这里：<a href="https://jinshuju.net/f/0abrVV" target="_blank" rel="noopener">建议/反馈/留言</a></p><hr><p>到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。</p><p>本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 纪念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
